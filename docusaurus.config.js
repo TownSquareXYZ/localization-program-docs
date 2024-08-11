@@ -40,7 +40,7 @@ const getEnvLangConfig = () => {
 const config = {
   title: "Localization Program Docs",
   tagline: "Translating the TON documents is really cool.",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.png",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -63,15 +63,16 @@ const config = {
 
   presets: [
     [
-      "classic",
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: "./sidebars.js",
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/TownSquareXYZ/localization-program-docs/blob/main",
         },
         blog: {
           showReadingTime: true,
@@ -82,7 +83,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/TownSquareXYZ/localization-program-docs/blob/main",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -126,12 +127,12 @@ const config = {
           src: "img/logo.png",
         },
         items: [
-          {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Docs",
-          },
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "tutorialSidebar",
+          //   position: "left",
+          //   label: "Docs",
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: "https://github.com/TownSquareXYZ",

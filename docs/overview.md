@@ -1,3 +1,7 @@
+---
+slug: /
+---
+
 # Localization Program
 
 The Translation Program is a collaborative effort to translate various documents related to TON into multiple languages, making the website more accessible to billions of non-English speakers worldwide.
