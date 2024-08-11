@@ -35,5 +35,5 @@ We are highly thankful to the thousands of community members who are the key par
 
 ## Guides and Resources
 If you are contributing to the Translation Program or considering getting involved, please check out the translation guides below:
-* [**Translation Style Guide**](/docs/translation-style-guide) – Instructions and tips for translators.
+* [**Translation Style Guide**](/translation-style-guide) – Instructions and tips for translators.
 * [**Crowdin Online Editor Guide**](https://support.crowdin.com/online-editor/) – An in-depth guide to using the Crowdin online editor and some of Crowdin's advanced features.
