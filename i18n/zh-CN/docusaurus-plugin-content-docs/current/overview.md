@@ -35,5 +35,5 @@
 
 如果您正在为翻译计划做出贡献或考虑参与其中，请查看以下翻译指南：
 
-- [**翻译风格指南**](/contribute/localization-program/translation-style-guide) - 给翻译人员的说明和提示。
+- [**翻译风格指南**](/docs/translation-style-guide) - 给翻译人员的说明和提示。
 - [**Crowdin 指南**](https://support.crowdin.com/online-editor/) - 关于使用 Crowdin 在线编辑器和 Crowdin 部分高级功能的深入指南。

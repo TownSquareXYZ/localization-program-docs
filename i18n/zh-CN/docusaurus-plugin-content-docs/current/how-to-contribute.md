@@ -8,7 +8,7 @@
 
 1. 登录或注册您的 [**Crowdin**](https://crowdin.com) 账户。
 2. 选择您要贡献的语言。
-3. 请熟悉[**如何使用 Crowdin**](/contribute/localization-program/how-to-contribute)指南和[**翻译风格指南**](/contribute/localization-program/translation-style-guide)，了解使用技巧和最佳实践。
+3. 请熟悉[**如何使用 Crowdin**](/docs/how-to-contribute)指南和[**翻译风格指南**](/docs/translation-style-guide)，了解使用技巧和最佳实践。
 4. 使用机器翻译辅助工作，但不要完全依赖机器翻译。
 5. 所有翻译结果均可在校对一小时后在网站上预览。
 
